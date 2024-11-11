@@ -4,3 +4,4 @@ h1 { text-align: center;}
 h3 {text-align: center; font-size: x-small;}
 footer {text-align: center; font-size: smaller; padding-top: 50px;}
 a { padding-left: 140px;}
+.nav-link {text-align: end; color: rgba(247, 23, 7, 0.589);}
